@@ -1,0 +1,44 @@
+.votem-container{
+  width: 800px;
+  height: 360px ;
+    margin-top: 45px;
+   border: 1px solid gray;
+   border-radius: 15px;
+   color: white;
+   text-shadow: 50px;
+   padding: 100px;
+   background-image: url(./tri.jpg);
+   background-repeat: no-repeat;
+}
+.votem-container p{
+    padding-top: 120px;
+    color: black;
+    font-weight: 700;
+}
+.votem-input {
+    padding: 8px 12px; /* Adjust padding as needed */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px; /* Adjust font size as needed */
+    width: 250px; /* Adjust width as needed */
+  }
+  .votem-button {
+    margin-left: 10px;
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #007bff; /* Adjust background color as needed */
+    color: #fff; /* Adjust text color as needed */
+    border: none;
+    border-radius: 5px;
+    font-size: 16px; /* Adjust font size as needed */
+    cursor: pointer;
+  }
+  
+  .votem-button:hover {
+    background-color: #0056b3; /* Adjust hover background color as needed */
+  }
+  
+  /* Add additional styles as needed */
+  
+  
+  /* Add additional styles as needed */
+  

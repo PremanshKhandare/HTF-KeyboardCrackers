@@ -1,0 +1,50 @@
+.party-card {
+    display: flex;
+    align-items: center;
+    /* border: 1px solid #ccc; */
+    margin-bottom: 20px;
+   
+  }
+  .party-image{
+
+    width: 400px;
+    height: 300px;
+    margin-left: 20px;
+    border-radius: 25px;
+  }
+  
+  .party-image > img {
+    /* width: 150px;
+    height: 150px;
+    margin-left: 20px; */
+  }
+  
+  .party-details {
+    margin-top: 90px;
+    flex: 1;
+    margin-left: 0;
+    width: 400px;
+  height: 400px;
+ word-wrap: normal;
+  
+  }
+  .party-details p{
+    width: 800px;
+    margin-left: 14%;
+    /* height: 400px; */
+  }
+  
+  .party-details button {
+    margin-top: 10px;
+  }
+  button {
+    margin-left: 10px;
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #007bff; /* Adjust background color as needed */
+    color: #fff; /* Adjust text color as needed */
+    border: none;
+    border-radius: 5px;
+    font-size: 16px; /* Adjust font size as needed */
+    cursor: pointer;
+  }
+  
